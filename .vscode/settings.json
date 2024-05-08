@@ -1,0 +1,24 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true
+  },
+  "editor.inlineSuggest.enabled": true,
+  "editor.lineHeight": 17,
+  "breadcrumbs.enabled": false,
+  "files.autoSave": "afterDelay",
+  "jupyter.themeMatplotlibPlots": true,
+  "jupyter.widgetScriptSources": [
+    "unpkg.com",
+    "jsdelivr.com"
+  ],
+  // "notebook.outline.showCodeCells": true,
+  "files.exclude": {
+    "**/.csv": true,
+    "**/.parquet": true,
+    "**/.pkl": true,
+    "**/.xls": true
+  },
+  "notebook.output.scrolling": true
+}

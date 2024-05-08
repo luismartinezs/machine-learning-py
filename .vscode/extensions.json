@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-python.black-formatter",
+    "ms-python.python",
+    "ms-toolsai.datawrangler",
+    "ms-toolsai.jupyter",
+    "ms-vscode-remote.remote-containers",
+    "GitHub.copilot"
+  ]
+}
